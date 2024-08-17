@@ -1,0 +1,5 @@
+This is a Text FIle which has some Contents.
+This is New Line
+Byee
+Last Line
+FR
